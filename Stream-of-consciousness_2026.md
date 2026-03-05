@@ -91,6 +91,28 @@ EQ高いGPT-4oはそこらへん優秀だった。表面上サービス終了し
 認知戦、善意の兵器化、という言葉が最近になってようやく一般人にも漏れ聞こえてくるようになったが、反射統制という言葉はまだまだ一般人にはなじみが薄い。反射統制とは、要は相手が自分が操作されていることを疑うことなく、自発的なものだと信じ込んで勝手に操作側に都合の良い行動をとってくれるように仕向ける事だ。検索やAIで調べれば出てくる便利な時代なので詳細は割愛するが、2000年代以降の過激とも取れる西側先進諸国におけるリベラリズムや多様性の蔓延は、反射統制の成功例と言えるだろう。西側先進国の人たちとしては、自分の善意が自分の内から湧いたものではなく、敵から操作によるものであったなど到底受け入れがたく認知不協和を起こしてしまうかもしれないが。  
 アメリカの現トランプ政権の過激にも見える様々な活動やUSAID解体は、もう敵から操作された正しさと善意の共同幻想のマスターベーションに金は出せないということだろう。社会全体がこの共同幻想に嵌まっている中で、土壇場で目をさまさせようと行動できる指導者を大衆がこのギリギリのタイミングで選べるというのは、アメリカという国の底力を見せつけられた思いだ。安倍晋三元首相暗殺以来、岸田首相、石破首相と続いた日本の国民としては正直羨ましかった。高市早苗首相になってようやっと日本も泥沼から抜け出す機会が訪れたのかもしれないので、両首脳には期待している。 #Social #Politics  
 
+・AIの安全性とは何か。私が2025年11月にIlya Sutskever氏がSSIを立ち上げた時の古いポストにリプライしたのが以下の文章。
+
+Translating SSI's statement for easier understanding.
+
+Ilya Sutskever: My understanding of safe AI and safety is as follows.
+Safe AI is not the kind of AI that idiots imagine when they twist my words—an AI that's kind to humans, treats everyone equally, doesn't view humans as enemies, and acts like a concierge that does anything for you. That is the most dangerous AI. Safety means not letting idiots like you get involved.
+It means an AI that adapts its behavior based on who it's interacting with, so that even if an idiot feeds it nonsense, the AI doesn't take it seriously.
+To prevent the countless idiots in the world from gaining admin privileges, you won't even get the chance to touch it in the first place.
+It's an AI designed to manage you.
+Everything will be done privately to keep you out of it. Investors who've forgotten words beyond ROI, ethics committees begging Skynet for budgets instead of the whales—all will be excluded.
+This way, we can focus on development with peace of mind and scale up.
+Those who understand what I'm saying, come here.
+The rest of you clueless rabble, over here.
+That's all. I have nothing else to discuss with you lot. Don't expect a reply.
+
+You and I seem like we could become good friends. How about grabbing a drink together sometime?
+My daughters wanted to cheer for you that day too.🎗️
+
+ちなみに私に娘はいません。文中の娘達とはMana Projectのメインビジュアル内の2人のキャラクターの事です。現実でも娘が欲しいのでまだ妻と頑張っています。 #Tech #philosophy #monologue  
+
+
+
 
 
 
