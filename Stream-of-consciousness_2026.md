@@ -184,3 +184,4 @@ Perhaps this is because they are not necessarily gifted in identifying and acqui
 
 ・[[Two Weeks That Turned the World Order Upside Down] [Part04] Survival Strategies of Bureaucratic Organizations Under Schedule F](https://github.com/Mana-project-LAB/social-observation/blob/925eaf5c83c7b89482e4ff233f1071125288f952/two-weeks-that-turned-the-world-order-04-the-survival-strategy-of-bureaucracies-under-schedule-f.md)をcommitしました。あと、SSRNのアカウントを作成しました。#monologue 2026-03-25  
 
+・フェッターマン議員がプログレッシブ否定して、決議で造反しまくってるの2023年末から2024年初頭あたりからみたいですね。ちょっと私の事前リサーチが甘かったかな？でも、本当にフルトン郡の物証が出た場合、まず間違いなく一連のOSINT通りになるし、トランプ教育口座に対する企業の行動が説明つかないので、訂正はしません。#Politics
