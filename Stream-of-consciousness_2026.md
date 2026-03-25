@@ -182,5 +182,5 @@ Perhaps this is because they are not necessarily gifted in identifying and acqui
 
 ・現在、世間に蔓延している自称リベラリズムをリベラリズムと呼びつづけると、私が敬意を持っている本物のリベラリズムやリベラリストに失礼なので、Mana Projectでは明確に区別が必要な文脈ではManipulated Liberalismと呼ぶことにします。面倒なんで逐一厳密に運用できるかはわかりませんが、この用語の背後にあるのは、中世や大航海時代から続く、男女間、人種間の差別や不幸な歴史への罪悪感と、人種人口逆転による復讐への恐怖や扇動に対して集団内の人数を平均的に均したり少数者を優遇することで、自分は差別しない善人だと安心するための精神安定剤という目的にすり替えられた、『自分の善性をアピールして安心する共同幻想にすり替えられたリベラリズム』としての構造的解体です。察しのいい人は、そのつもりで読んでください。 #Politics #Social 2026-03-25  
 
-
+・[[Two Weeks That Turned the World Order Upside Down] [Part04] Survival Strategies of Bureaucratic Organizations Under Schedule F](https://github.com/Mana-project-LAB/social-observation/blob/925eaf5c83c7b89482e4ff233f1071125288f952/two-weeks-that-turned-the-world-order-04-the-survival-strategy-of-bureaucracies-under-schedule-f.md)をcommitしました。あと、SSRNのアカウントを作成しました。#monologue 2026-03-25  
 
