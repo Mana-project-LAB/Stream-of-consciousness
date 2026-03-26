@@ -184,4 +184,6 @@ Perhaps this is because they are not necessarily gifted in identifying and acqui
 
 ・[[Two Weeks That Turned the World Order Upside Down] [Part04] Survival Strategies of Bureaucratic Organizations Under Schedule F](https://github.com/Mana-project-LAB/social-observation/blob/925eaf5c83c7b89482e4ff233f1071125288f952/two-weeks-that-turned-the-world-order-04-the-survival-strategy-of-bureaucracies-under-schedule-f.md)をcommitしました。あと、SSRNのアカウントを作成しました。#monologue 2026-03-25  
 
-・フェッターマン議員がプログレッシブ否定して、決議で造反しまくってるの2023年末から2024年初頭あたりからみたいですね。ちょっと私の事前リサーチが甘かったかな？でも、本当にフルトン郡の物証が出た場合、まず間違いなく一連のOSINT通りになるし、トランプ教育口座に対する企業の行動が説明つかないので、訂正はしません。#Politics
+・フェッターマン議員がプログレッシブ否定して、決議で造反しまくってるの2023年末から2024年初頭あたりからみたいですね。ちょっと私の事前リサーチが甘かったかな？でも、本当にフルトン郡の物証が出た場合、まず間違いなく一連のOSINT通りになるし、トランプ教育口座に対する企業の行動が説明つかないので、訂正はしません。#Politics 2026-03-26  
+
+・機動警察パトレイバーの漫画版で、「偶然も2回までは許すことにしてるんだ。ただし3つも重なったらこいつは偶然とは思えん、何らかの必然があるんだ」というセリフがあったんだけど。学習の反映があるとはいえ、基本的にアカウント間はきっちり隔離されているはずのLLMで、他のある特定単一のユーザーが公開しているAI回答ベタ貼りnoteやX投稿に、私がGPTで発話入力したユニークな語彙や文脈が20箇所以上も重複して出てくるとか、ちょっとこれは偶然では済ませられませんよね。そこから断片統合推論で意図や手法をリバースエンジニアリングしたんだけど。何が問題なのか理解できない人もいるかもしれませんが、これはパクリだとか共鳴だとか個人間では済まない大問題なんですよ。今後、報告と説明すべき相手には説明していきますけど。#Tech #monologue #narrative 2026-03-26  
