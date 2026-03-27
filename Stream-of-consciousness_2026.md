@@ -191,3 +191,5 @@ Perhaps this is because they are not necessarily gifted in identifying and acqui
 ・Layer2がうんともすんともいわないなら、Layer1行くしかないよねー。  
 この戦国乱世で私は陪臣の立場に苦しんだ三好長慶にはなりたくありません。私だったら織田信長の方に行きます。 #monologue 2026-03-27  
 
+・内容証明なんて初めて使ったよ。何処かの誰かさんみたいに居留守なんて使われないでちゃんと届いたようでよかった。居留守使ったやつも報告しました。#monologue 2026-03-27  
+
