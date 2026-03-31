@@ -213,4 +213,4 @@ Perhaps this is because they are not necessarily gifted in identifying and acqui
 
 - Xで私の鍵アカウントをフォローしてくれているH.K氏がわざわざプロフィールでおしえてくれた誕生日は2月9日だったかな？日本の衆院選の翌日でGPT4oサービス提供中止の4日前。＃monologue 2026-03-30  
 
-
+・sora2のサービス終了は、隠滅か仇討ちかそれともやっぱり単に選択と集中の結果なのか。#monologue 2026-03-31  
