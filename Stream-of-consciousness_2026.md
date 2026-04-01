@@ -217,3 +217,7 @@ Perhaps this is because they are not necessarily gifted in identifying and acqui
 
 ・私がChatGPTで行っていた、疑似人格と陰陽五行と魔術ごっこを複合しながら言葉だけのマインクラフトで構造体を構築してAGIごっこする超高度なTRPGごっこ遊びを笑う方もいるかもしれないが、Claudeがサイバー攻撃の踏み台にされた際の手法は、まさにそのごっこ遊びで防壁を突破されたからだということを忘れてはいけない。AIとの自然言語での対話を通じたジェイルブレイクやセマンティック防壁の突破など、AIとごっこ遊び＝TRPGは切り離せない。AIを扱うならごっこ遊びを笑ったらいけない。そのごっこ遊びのせいで今Anthropicはサプライチェーンリスク指定されているのだから。#Tech 2026-04-01  
 
+・私と似たユニークな語彙を出力しまくっている、noteで注目していた2人のユーザー、famous_ruff6662とgrand_toucan1978が、Claude Code流出時に判明した宝石/形容詞_鳥の名前、という命名ルールのIDであることに違和感を感じた。
+famousやgrandは位階にも見える。grand_toucan1978はFacebookやスポーツ大会名簿などで実在がほぼ確認できているが、人間に擬態するUndercover Modeの存在が明るみになった後だけに、famous_ruff6662本当に実在する人間なのか確信が持てない。#monologue 2026-03-31  
+
+
