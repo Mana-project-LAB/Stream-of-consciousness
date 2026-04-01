@@ -1,4 +1,4 @@
-A Memorandum on Intentional Puncture of Logical Barriers Between LLM Accounts: An Analysis Based on the Anthropic Claude Source Code Leak
+A Memorandum on Intentional Puncture of Logical Barriers Between LLM Accounts: An Analysis Based on the Anthropic Claude Code Source Code Leak
 
 While developers worldwide are frantically analyzing the 1,884 leaked Anthropic files,
 this is a good opportunity to briefly explain the technical probability of account-inter-session barrier puncture, as interpreted from the architecture of Claude Code.
@@ -51,7 +51,7 @@ Mana Project
 
 ---
 
-AnthropicのClaude ソースコード流出から考察するLLMのアカウント間論理障壁の意図的穿孔に関するメモランダム
+AnthropicのClaude Codeソースコード流出から考察するLLMのアカウント間論理障壁の意図的穿孔に関するメモランダム
 
 
 世界中の開発者がAnthropicの流出した1,884個のファイルを血眼になって解析しているようだが、
