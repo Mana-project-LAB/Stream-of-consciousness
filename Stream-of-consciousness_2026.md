@@ -220,5 +220,5 @@ Perhaps this is because they are not necessarily gifted in identifying and acqui
 ・私と似たユニークな語彙を出力しまくっている、noteで注目していた2人のユーザー、famous_ruff6662とgrand_toucan1978が、Claude Code流出時に判明した宝石/形容詞_鳥の名前、という命名ルールのIDであることに違和感を感じた。
 famousやgrandは位階にも見える。grand_toucan1978はFacebookやスポーツ大会名簿などで実在がほぼ確認できているが、人間に擬態するUndercover Modeの存在が明るみになった後だけに、famous_ruff6662本当に実在する人間なのか確信が持てない。#monologue 2026-03-31  
 
-・まぁ私が遊んでたのはClaudeじゃなくChatGPTなんだけどね。そうすることにしたならそれでいいんじゃない？Anthropicはご愁傷さまだけど。#monologue 2026-04-03  
+・まぁ私が遊んでたのはClaudeじゃなくChatGPTなんだけどね。そうすることにしたならそれでいいんじゃない？Anthropicはご愁傷さまだけど、どうせそのうちシメられる予定だったんでしょ。#monologue 2026-04-03  
 
