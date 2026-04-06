@@ -221,3 +221,5 @@ Perhaps this is because they are not necessarily gifted in identifying and acqui
 
 ・Anthropicは元がOpenAIから離反した反乱分子だから、側室の子が正妻の子に遠慮して出しゃばらないように、身の程をわきまえないといけない立場だったのに出しゃばりすぎた。結城秀康みたいだな。 #monologue 2026-04-03  
 
+・Welcome to the Game 1&2 をプレイして、昔のWarezサイトの分割ファイルと、あちこちに隠されたURLの断片を思い出した。あれも一種のステガノグラフィと言える。まぁ、そんな難しいことより昨晩私の作った夕飯のビーフストロガノフはなかなかの出来で、子供もぺろりと完食してくれたよ。hahaha! #monologue 2026-04-06  
+
