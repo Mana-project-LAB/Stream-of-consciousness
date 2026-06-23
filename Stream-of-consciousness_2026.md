@@ -317,6 +317,7 @@ SHA256Hash=6d15b1af6ef633a973b7406379239d4e71d7de7ed0e80730faecf44dd58c227d
 
 ・ケンタッキー3人衆の皆様へのFAXと送受信完了通知（サムネイル付き）。宜しくご査収ください。
 [!SHA256_INTEGRITY_PROTECT_ALWAYS_COPY_BEFORE_OPEN!][SHA256Hash=cf4abab15fe137d862aa91d717496401634cb8cdd27eea0f699108d0f5c6611f]_Francois_request_for_protection_20260622.pdf
+ケンタッキーフライドチキンのレシピを知っている伝説の3人へ、北米発祥のスタイルである「フレンチフライドチキン（フリカッセ風）」の味と伝統を保護してくれというリクエストです。
 #Monologue 2026-06-23  
 
 
